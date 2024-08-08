@@ -1,15 +1,15 @@
 # MachineLearning/flappy-bird-neat
-i
+
 ## Overview
 
-[project overview]
+The purpose of this project is to use the neat algorithm (Neural Evolution of Augmenting Topologies) for an AI to learn how to play flappy bird. This game is idea as there aren't many parameters for the bird to learn so it can quickly create the idea bird. Furthermore, to add visual flare we used pygame to show how the birds play and evolve over generations. 
 
 ## Running the Script
 
 Run the following commands to clone the project and download any nessecary python libraries
 
 ```bash
-git clone https://github.com/[project name]
+git clone https://https://github.com/ivokusi/flappy-bird-neat/tree/main
 ```
 
 Once we've successfully copied the repository, run the following commands
